@@ -49,6 +49,6 @@ struct ScannerView: UIViewControllerRepresentable {
     
 }
 
-#Preview {
-    ScannerView(scannedCode: .constant("1234"))
-}
+//#Preview {
+//    ScannerView(scannedCode: .constant("1234"))
+//}
